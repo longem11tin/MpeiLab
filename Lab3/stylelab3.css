@@ -1,0 +1,70 @@
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.right {
+    text-align: right;
+}
+
+.greenColor {
+    color: green;
+}
+
+.redColor {
+    color: red;
+}
+
+.blueColor {
+    color: #72B3F4;
+}
+
+.yellowColor {
+    color: yellow;
+}
+
+.brownColor {
+    color: brown;
+}
+
+.hr-boder {
+    border: 1px solid red;
+    box-shadow: 2px 2px 2px black;
+}
+
+.center {
+    align-items: center;
+    text-align: center
+}
+
+.imgCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.imgLeft {
+    display: block;
+    margin-left: 0;
+    margin-right: auto;
+    width: 90%;
+}
+
+table, th, td {
+    border: 1px solid;
+    margin-left: -10px;
+    padding-left: 5px;
+}
+
+.td1 {
+    background-color: #72B3F4;
+}
+
+.td2 {
+    background-color: yellow;
+}
+
+table {
+    border-collapse: collapse;
+}
