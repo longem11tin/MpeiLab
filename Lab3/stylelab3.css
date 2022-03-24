@@ -55,16 +55,10 @@ table, th, td {
     border: 1px solid;
     margin-left: -10px;
     padding-left: 5px;
-}
-
-.td1 {
+    border-collapse: collapse;
     background-color: #72B3F4;
 }
 
 .td2 {
     background-color: yellow;
-}
-
-table {
-    border-collapse: collapse;
 }
